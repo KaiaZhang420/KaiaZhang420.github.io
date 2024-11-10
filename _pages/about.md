@@ -103,11 +103,13 @@ A tribute paper highlighting the significant contributions of Dr. Harold W. Kohl
  - Lomonosov Moscow State University, Russia
  - GPA: 4.9/5.0 (Top 5%)
  - China Scholarship Council (CSC) Fellow
+ - Advisor: Dr. Алешин, Владимир Владимирович
 
 *2016.09 - 2020.06* &nbsp;🎓 **Bachelor of Sport Science and Physical Education**
  - Beijing Normal University, China
  - Honor Degree
  - GPA: 3.8/4.0 (Top 15%)
+ - Advisor: Dr. Guofeng Qu
 
 *2017.09 - 2021.06* &nbsp;📚 **Bachelor of Chinese Language and Literature**
  - Beijing Normal University, China
