@@ -75,10 +75,9 @@ A tribute paper highlighting the significant contributions of Dr. Harold W. Kohl
 - First-authored paper with guidance from senior researchers, contributing to understanding of China's physical activity research landscape
 
 # 🎖 Honors and Awards
+*2020-2023* &nbsp;🌟 **China Scholarship Council (CSC) Award (Top 1%)** 
 
-*2020-2023* &nbsp;🌟 **China Scholarship Council (CSC) Award** (Top 1%)
-
-*2020* &nbsp;🎓 **Outstanding Undergraduate Awards** (Top 10%)
+*2020* &nbsp;🎓 **Outstanding Undergraduate Awards (Top 10%)** 
 
 *2018-2019* &nbsp;📚 **Academic Excellence Awards**
  - 1st Class Academic Honors, Beijing Normal University (Top 15%)
@@ -87,7 +86,7 @@ A tribute paper highlighting the significant contributions of Dr. Harold W. Kohl
    
 *2016-2020* &nbsp;🏆 **Sports Achievement Awards**
  - BNU Sports Competition 1st Scholarship （Top 3 in the National Student Competition）
-*2013* &nbsp;⭐ **National Master Level of Rhythmic Gymnastics** （Top 1%)
+*2013* &nbsp;⭐ **National Master Level of Rhythmic Gymnastics (Top 1%)**
  - Awarded for consecutive wins in junior national competitions (2011-2014)
 
 
