@@ -8,7 +8,7 @@
 
 # Site Settings
 title                    : "Kaia Zhang"
-description              : "PhD Student in Community Health at University of Illinois Urbana-Champaign"
+description              : ""
 repository               : "KaiaZhang420/KaiaZhang420.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,7 +24,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Kaia Zhang"
   avatar           : "images/avatar.png"
-  bio              : "PhD Student in Community Health"
+  bio              : "PhD Student in Community Health at University of Illinois Urbana-Champaign"
   location         : "Urbana, IL, United States"
   employer         : "University of Illinois Urbana-Champaign"
   pubmed           : 
