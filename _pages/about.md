@@ -27,7 +27,7 @@ You can find my research work on <a href='https://scholar.google.com/citations?u
 
 
 # 🔥 News
-- *2024.10*: &nbsp;🎉 🎉 Presented research at the 10th ISPAH Congress in Paris
+- *2024.10*: &nbsp;🎉 Presented research at the 10th ISPAH Congress in Paris
 - *2024.06*: &nbsp;🎉 Published paper in JPAH: "The Evolution of Physical Activity and Health Research in China"
 - *2024.03*: &nbsp;🕊️ Published paper about Dr. Harold W. Kohl III's legacy in JPAH
 - *2023.08*: &nbsp;🎓 Started PhD program at University of Illinois Urbana-Champaign
