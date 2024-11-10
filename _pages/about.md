@@ -27,21 +27,35 @@ You can find my research work on <a href='https://scholar.google.com/citations?u
 
 
 # 🔥 News
-<div class="presentation-box" style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-    <!-- Left side vertical image -->
-    <div class="presentation-box-image" style="flex: 1; padding-right: 10px; max-width: 100px; height: auto;">
-        <img src="images/presentation.png" alt="Presentation at ISPAH" style="max-height: 300px; width: auto;">
-    </div>
-    
-    <!-- Right side text -->
-    <div class="presentation-box-text" style="flex: 2;">
-        <p><strong>2024.10:</strong> &nbsp;🎉 Presented research at the 10th ISPAH Congress in Paris</p>
-    </div>
-</div>
 
 - *2024.06*: &nbsp;🎉 Published paper in JPAH: "The Evolution of Physical Activity and Health Research in China"
 - *2024.03*: &nbsp;🕊️ Published paper about Dr. Harold W. Kohl III's legacy in JPAH
 - *2023.08*: &nbsp;🎓 Started PhD program at University of Illinois Urbana-Champaign
+
+<div class="timeline">
+    <!-- Event 1 -->
+    <p><strong>2024.10:</strong> 🎉 Presented research at the 10th ISPAH Congress in Paris</p>
+    <!-- Event 2 -->
+    <p><strong>2024.06:</strong> 🎉 Published paper in JPAH: "The Evolution of Physical Activity and Health Research in China"</p>
+    <!-- Event 3 -->
+    <p><strong>2024.03:</strong> 🕊️ Published paper about Dr. Harold W. Kohl III's legacy in JPAH</p>
+    <!-- Event 4 -->
+    <p><strong>2023.08:</strong> 🎓 Started PhD program at University of Illinois Urbana-Champaign</p>
+</div>
+
+<!-- Add a container for the image and text side by side -->
+<div class="presentation-box" style="display: flex; align-items: center; margin-top: 20px;">
+    <!-- Left side text -->
+    <div class="presentation-box-text" style="flex: 2;">
+        <p><strong>2024.10:</strong> 🎉 Presented research at the 10th ISPAH Congress in Paris</p>
+    </div>
+    
+    <!-- Right side image -->
+    <div class="presentation-box-image" style="flex: 1; padding-left: 20px;">
+        <img src="images/your-presentation-image.jpg" alt="Presentation at ISPAH" style="max-height: 400px; width: auto; border-radius: 10px;">
+    </div>
+</div>
+
 
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JPAH 2024</div><img src='images/bibliometric.png' alt="bibliometric analysis" width="100%"></div></div>
