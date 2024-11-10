@@ -17,12 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD student in Community Health at the University of Illinois Urbana-Champaign, working under the guidance of Dr. Pedro C Hallal. My research focuses on the relationship between physical activity and health, particularly in:
-- Prevention of non-communicable diseases using digital technology
-- Promoting healthy aging through physical activity
-- Development of health interventions using digital solutions
+# About Me
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+# About Me
+
+I am a PhD student in Health and Kinesiology at the University of Illinois Urbana-Champaign, working under the guidance of Dr. Pedro C Hallal. Combining my academic foundation in kinesiology and sports management with my distinguished background as a National Master of Sports in Rhythmic Gymnastics, I investigate the intersection of physical activity and public health. My research focuses on innovative approaches to community health promotion, particularly through digital health technologies, with special attention to the evolution of physical activity research, healthy aging, and health economics. Through my recent work on bibliometric analysis of physical activity research in China and leveraging my strong quantitative analysis skills and multilingual capabilities, I strive to contribute meaningful insights to global public health challenges.
+
+You can find my research work on <a href='https://scholar.google.com/citations?user=bRnW6HEAAAAJ'>Google Scholar</a> and connect with me on <a href='https://orcid.org/0009-0000-5589-410X'>ORCID</a>. 
+
+[Recent publication: <a href='https://journals.humankinetics.com/view/journals/jpah/21/8/article-p802.xml'>"The Evolution of Physical Activity and Health Research in China: A Bibliometric Analysis"</a>]
+
 
 
 # 🔥 News
