@@ -114,6 +114,7 @@ A tribute paper highlighting the significant contributions of Dr. Harold W. Kohl
 *2017.09 - 2021.06* &nbsp;📚 **Bachelor of Chinese Language and Literature**
  - Beijing Normal University, China
  - Double Degree Program
+ - Advisor: Dr. Xiaoping Dong
 
 *2019.07 - 2019.08* &nbsp;🌎 **International Exchange Program**
  - University of Pennsylvania, USA
