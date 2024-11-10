@@ -32,16 +32,10 @@ You can find my research work on <a href='https://scholar.google.com/citations?u
 - *2024.03*: &nbsp;🕊️ Published paper about Dr. Harold W. Kohl III's legacy in JPAH
 - *2023.08*: &nbsp;🎓 Started PhD program at University of Illinois Urbana-Champaign
 
-<!-- Add a container for the image and text side by side -->
-<div class="presentation-box" style="display: flex; align-items: center; margin-top: 20px;">
-    <!-- Left side text -->
-    <div class="presentation-box-text" style="flex: 2;">
-        <p><strong>2024.10:</strong> 🎉 Presented research at the 10th ISPAH Congress in Paris</p>
-    </div>
-    
+<div class="presentation-box" style="display: flex; justify-content: flex-end; margin-top: 20px;">
     <!-- Right side image -->
     <div class="presentation-box-image" style="flex: 1; padding-left: 20px;">
-        <img src="images/presentation.png" alt="Presentation at ISPAH" style="max-height: 400px; width: auto; border-radius: 10px;">
+        <img src="presentation.png" alt="Presentation at ISPAH" style="max-height: 350px; width: auto; border-radius: 10px;">
     </div>
 </div>
 
