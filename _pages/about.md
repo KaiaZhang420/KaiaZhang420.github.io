@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# About Me
+# Welcome👋！
 
 I am a PhD student in Health and Kinesiology at the University of Illinois Urbana-Champaign, working under the guidance of Dr. Pedro C Hallal. Combining my academic foundation in kinesiology and sports management with my distinguished background as a National Master of Sports in Rhythmic Gymnastics, I investigate the intersection of physical activity and public health. My research focuses on innovative approaches to community health promotion, particularly through digital health technologies, with special attention to the evolution of physical activity research, healthy aging, and health economics. Through my recent work on bibliometric analysis of physical activity research in China and leveraging my strong quantitative analysis skills and multilingual capabilities, I strive to contribute meaningful insights to global public health challenges.
 
@@ -89,7 +89,8 @@ A tribute paper highlighting the significant contributions of Dr. Harold W. Kohl
 *2020* &nbsp;🎓 **Outstanding Undergraduate Awards (Top 10%)** 
 
 *2018-2019* &nbsp;📚 **Academic Excellence Awards**
- - 1st Class Academic Honors, Beijing Normal University (Top 15%)
+ - 1st Class Academic Honors, Beijing Normal University (Top 5%)
+ - 2nd Class Academic Honors, Beijing Normal University (Top 15%)
  - Beijing Outstanding Undergraduate Academic Program 1st Award (Top 10%)
  - Scholarship for Chinese Classics of Confucius (5 undergraduate students in the university each year)
    
