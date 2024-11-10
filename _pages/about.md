@@ -35,9 +35,10 @@ You can find my research work on <a href='https://scholar.google.com/citations?u
 <div class="presentation-box" style="display: flex; justify-content: flex-end; margin-top: 20px;">
     <!-- Right side image -->
     <div class="presentation-box-image" style="flex: 1; padding-left: 20px;">
-        <img src="presentation.png" alt="Presentation at ISPAH" style="max-height: 350px; width: auto; border-radius: 10px;">
+        <img src="images/presentation.png" alt="Presentation at ISPAH" style="max-height: 500px; width: auto; border-radius: 10px;">
     </div>
 </div>
+
 
 
 # 📝 Publications 
