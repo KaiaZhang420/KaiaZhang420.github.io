@@ -57,14 +57,6 @@ Journal of Physical Activity and Health, 2024
 A tribute paper highlighting the significant contributions of Dr. Harold W. Kohl III to physical activity and health research.
 </div></div>
 
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
 # 🔬 Projects and Collaborations
 
 [**Global Physical Activity Observatory (GoPA!)**](https://new.globalphysicalactivityobservatory.com/)
@@ -78,22 +70,107 @@ A tribute paper highlighting the significant contributions of Dr. Harold W. Kohl
 - Contributing to the development of research protocols for physical activity measurement
 
 [**Physical Activity and Health Research in China**](https://journals.humankinetics.com/view/journals/jpah/21/8/article-p802.xml)
-- Conducted bibliometric analysis of physical activity research in China under Dr. Pedro Hallal's mentorship
+- Conducted bibliometric analysis of physical activity research in China under Dr. Pedro Hallal's supervision
 - Analyzed three decades of research trends and gender representation in the field
 - First-authored paper with guidance from senior researchers, contributing to understanding of China's physical activity research landscape
 
-
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2020-2023* &nbsp;🌟 **China Scholarship Council (CSC) Award**
+ - Highly competitive national scholarship awarded to only one undergraduate from the Department of Sport Science and Physical Education
+ - Funded full graduate studies at Moscow State University
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2020* &nbsp;🎓 **Outstanding Undergraduate Awards**
+ - BNU Outstanding Undergraduate Student Institute Award
+ - Undergraduate Student Paper Award, Beijing Normal University
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2018-2019* &nbsp;📚 **Academic Excellence Awards**
+ - 1st Class Academic Honors, Beijing Normal University
+ - Beijing Outstanding Undergraduate Academic Program 1st Award
+ - Scholarship for Chinese Classics of Confucius
+
+- *2016-2020* &nbsp;🏆 **Sports Achievement Awards**
+ - BNU Sports Competition 1st Scholarship (Awarded three times)
+ - Outstanding achievement in university athletics
+
+- *2013* &nbsp;⭐ **National Master Level of Rhythmic Gymnastics**
+ - Highest national honor for Chinese athletes
+ - Awarded for consecutive wins in senior national competitions
+
+
+# 📖 Education
+
+- *2023.08 - Present* &nbsp;🎓 **Ph.D. in Community Health**
+ - University of Illinois Urbana-Champaign, USA
+ - Department of Health and Kinesiology
+ - GPA: 4.0/4.0 (2023 fall-2024 spring)
+ - Advisor: Dr. Pedro C Hallal
+
+- *2021.09 - 2023.06* &nbsp;🎓 **Master of Sports Management**
+ - Lomonosov Moscow State University, Russia
+ - GPA: 4.9/5.0 (Top 5%)
+ - China Scholarship Council (CSC) Fellow
+
+- *2016.09 - 2020.06* &nbsp;🎓 **Bachelor of Sport Science and Physical Education**
+ - Beijing Normal University, China
+ - Honor Degree
+ - GPA: 3.8/4.0 (Top 15%)
+
+- *2017.09 - 2021.06* &nbsp;📚 **Bachelor of Chinese Language and Literature**
+ - Beijing Normal University, China
+ - Double Degree Program
+
+- *2019.07 - 2019.08* &nbsp;🌎 **International Exchange Program**
+ - University of Pennsylvania, USA
+ - Public Health and Global Leadership
+
+# 💬 Academic Presentations & Teaching
+
+- *2024.10* &nbsp;📊 **Bibliometric Analysis of Physical Activity Research in China**
+  - 10th ISPAH Congress
+  - Oral Presentation (Upcoming)
+
+- *2022.Spring* &nbsp;🏃 **Fitness and Health Series Courses**
+  - Moscow State University, Chinese Students and Scholars Association
+  - Lecturer
+  - Topics: Physical activity, NCDs prevention, and exercise techniques
+
+- *2019-2020* &nbsp;📹 **Digital Coach and MOOC Contributor**
+  - Beijing Normal University
+  - Created content for rhythmic gymnastics and women's physique lessons
+  - Teaching assistant for "Physical Education and Health Series"
+
+- *2018-2019* &nbsp;👥 **Youth Mental Health Program**
+  - Experimental Primary School of Beijing Normal University
+  - Led group psychological therapy programs
+  - Organized activities enhancing team spirit and interpersonal skills
+  - Hosted seminar on "Autism and Adolescent Internet Game Addiction"
+
+# 💻 Professional Experience
+
+- *2023.08 - Present* &nbsp;🔬 **Research Assistant**
+  - Department of Health and Kinesiology, University of Illinois Urbana-Champaign
+  - EPIC LAB and LAPASST LAB
+  - Projects and Responsibilities:
+    - Organizing policy data on physical activity and health for China
+    - Supporting EPIC LAB meetings and activities
+    - Developing course materials for KIN122
+    - Preparing for youth physical activity measurement projects
+
+- *2022.07 - 2022.08* &nbsp;🏥 **Research Assistant**
+  - Neuromuscular Biomechanics Laboratory, Stanford University (Remote)
+  - Project: 'Physical activity mindsets in people with osteoarthritis'
+  - Designed app flow charts for older adults with osteoarthritis
+
+- *2022.06 - 2022.09* &nbsp;🤖 **Research Student**
+  - Department of Mechanics and Mathematics, Moscow State University
+  - Developed ROS-based program for robot control using Linux system
+
+- *2021.03 - 2021.05* &nbsp;📊 **Research Assistant**
+  - General Association of Asian-Pacific Sports Federation, Beijing
+  - Investigated digital gym development and sports investments
+  - Completed mass sports development report
+
+- *2020.06 - 2020.09* &nbsp;🌱 **Public Interest Communicator**
+  - China Philanthropy Research Institute, Beijing
+  - Planned and managed senior health science festival
