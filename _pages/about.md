@@ -76,15 +76,11 @@ A tribute paper highlighting the significant contributions of Dr. Harold W. Kohl
 
 # 🎖 Honors and Awards
 
-- *2020-2023* &nbsp;🌟 **China Scholarship Council (CSC) Award**
- - Highly competitive national scholarship awarded to only one undergraduate from the Department of Sport Science and Physical Education
- - Funded full graduate studies at Moscow State University
+*2020-2023* &nbsp;🌟 **China Scholarship Council (CSC) Award**
 
-- *2020* &nbsp;🎓 **Outstanding Undergraduate Awards**
- - BNU Outstanding Undergraduate Student Institute Award
- - Undergraduate Student Paper Award, Beijing Normal University
+*2020* &nbsp;🎓 **Outstanding Undergraduate Awards**
 
-- *2018-2019* &nbsp;📚 **Academic Excellence Awards**
+*2018-2019* &nbsp;📚 **Academic Excellence Awards**
  - 1st Class Academic Honors, Beijing Normal University
  - Beijing Outstanding Undergraduate Academic Program 1st Award
  - Scholarship for Chinese Classics of Confucius
