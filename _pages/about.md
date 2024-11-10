@@ -65,6 +65,24 @@ A tribute paper highlighting the significant contributions of Dr. Harold W. Kohl
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
+# 🔬 Projects and Collaborations
+
+[**Global Physical Activity Observatory (GoPA!)**](https://new.globalphysicalactivityobservatory.com/)
+- Contributing to physical activity research and surveillance in China as part of the GoPA! network
+- Participating in global physical activity research initiatives under Dr. Pedro Hallal's leadership
+- Supporting the advancement of physical activity and public health research through international collaboration
+
+[**Laboratory of Physical Activity Assessment and Surveillance Systems Technology (LAPASST)**](https://publish.illinois.edu/lapassstalab/)
+- Preparing for upcoming accelerometry-based physical activity measurement projects
+- Member of Dr. Otavio Leao's research team, focusing on youth physical activity assessment
+- Contributing to the development of research protocols for physical activity measurement
+
+[**Physical Activity and Health Research in China**](https://journals.humankinetics.com/view/journals/jpah/21/8/article-p802.xml)
+- Conducted bibliometric analysis of physical activity research in China under Dr. Pedro Hallal's mentorship
+- Analyzed three decades of research trends and gender representation in the field
+- First-authored paper with guidance from senior researchers, contributing to understanding of China's physical activity research landscape
+
+
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
