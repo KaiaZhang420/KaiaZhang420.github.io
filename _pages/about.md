@@ -76,47 +76,41 @@ A tribute paper highlighting the significant contributions of Dr. Harold W. Kohl
 
 # 🎖 Honors and Awards
 
-*2020-2023* &nbsp;🌟 **China Scholarship Council (CSC) Award**
-
-*2020* &nbsp;🎓 **Outstanding Undergraduate Awards**
-
+*2020-2023* &nbsp;🌟 **China Scholarship Council (CSC) Award** (Top 1%)
+*2020* &nbsp;🎓 **Outstanding Undergraduate Awards** (Top 10%)
 *2018-2019* &nbsp;📚 **Academic Excellence Awards**
- - 1st Class Academic Honors, Beijing Normal University
- - Beijing Outstanding Undergraduate Academic Program 1st Award
- - Scholarship for Chinese Classics of Confucius
-
-- *2016-2020* &nbsp;🏆 **Sports Achievement Awards**
- - BNU Sports Competition 1st Scholarship (Awarded three times)
- - Outstanding achievement in university athletics
-
-- *2013* &nbsp;⭐ **National Master Level of Rhythmic Gymnastics**
- - Highest national honor for Chinese athletes
- - Awarded for consecutive wins in senior national competitions
+ - 1st Class Academic Honors, Beijing Normal University (Top 15%)
+ - Beijing Outstanding Undergraduate Academic Program 1st Award (Top 10%)
+ - Scholarship for Chinese Classics of Confucius (5 undergraduate students in the university each year)
+*2016-2020* &nbsp;🏆 **Sports Achievement Awards**
+ - BNU Sports Competition 1st Scholarship （Top 3 in the National Student Competition）
+*2013* &nbsp;⭐ **National Master Level of Rhythmic Gymnastics** （Top 1%)
+ - Awarded for consecutive wins in junior national competitions (2011-2014)
 
 
 # 📖 Education
 
-- *2023.08 - Present* &nbsp;🎓 **Ph.D. in Community Health**
+*2023.08 - Present* &nbsp;🎓 **Ph.D. in Community Health**
  - University of Illinois Urbana-Champaign, USA
  - Department of Health and Kinesiology
  - GPA: 4.0/4.0 (2023 fall-2024 spring)
  - Advisor: Dr. Pedro C Hallal
 
-- *2021.09 - 2023.06* &nbsp;🎓 **Master of Sports Management**
+*2021.09 - 2023.06* &nbsp;🎓 **Master of Sports Management**
  - Lomonosov Moscow State University, Russia
  - GPA: 4.9/5.0 (Top 5%)
  - China Scholarship Council (CSC) Fellow
 
-- *2016.09 - 2020.06* &nbsp;🎓 **Bachelor of Sport Science and Physical Education**
+*2016.09 - 2020.06* &nbsp;🎓 **Bachelor of Sport Science and Physical Education**
  - Beijing Normal University, China
  - Honor Degree
  - GPA: 3.8/4.0 (Top 15%)
 
-- *2017.09 - 2021.06* &nbsp;📚 **Bachelor of Chinese Language and Literature**
+*2017.09 - 2021.06* &nbsp;📚 **Bachelor of Chinese Language and Literature**
  - Beijing Normal University, China
  - Double Degree Program
 
-- *2019.07 - 2019.08* &nbsp;🌎 **International Exchange Program**
+*2019.07 - 2019.08* &nbsp;🌎 **International Exchange Program**
  - University of Pennsylvania, USA
  - Public Health and Global Leadership
 
