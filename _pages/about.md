@@ -27,21 +27,10 @@ You can find my research work on <a href='https://scholar.google.com/citations?u
 
 
 # 🔥 News
-
+- *2024.10*: &nbsp;🎉 🎉 Presented research at the 10th ISPAH Congress in Paris
 - *2024.06*: &nbsp;🎉 Published paper in JPAH: "The Evolution of Physical Activity and Health Research in China"
 - *2024.03*: &nbsp;🕊️ Published paper about Dr. Harold W. Kohl III's legacy in JPAH
 - *2023.08*: &nbsp;🎓 Started PhD program at University of Illinois Urbana-Champaign
-
-<div class="timeline">
-    <!-- Event 1 -->
-    <p><strong>2024.10:</strong> 🎉 Presented research at the 10th ISPAH Congress in Paris</p>
-    <!-- Event 2 -->
-    <p><strong>2024.06:</strong> 🎉 Published paper in JPAH: "The Evolution of Physical Activity and Health Research in China"</p>
-    <!-- Event 3 -->
-    <p><strong>2024.03:</strong> 🕊️ Published paper about Dr. Harold W. Kohl III's legacy in JPAH</p>
-    <!-- Event 4 -->
-    <p><strong>2023.08:</strong> 🎓 Started PhD program at University of Illinois Urbana-Champaign</p>
-</div>
 
 <!-- Add a container for the image and text side by side -->
 <div class="presentation-box" style="display: flex; align-items: center; margin-top: 20px;">
@@ -52,7 +41,7 @@ You can find my research work on <a href='https://scholar.google.com/citations?u
     
     <!-- Right side image -->
     <div class="presentation-box-image" style="flex: 1; padding-left: 20px;">
-        <img src="images/your-presentation-image.jpg" alt="Presentation at ISPAH" style="max-height: 400px; width: auto; border-radius: 10px;">
+        <img src="images/presentation.png" alt="Presentation at ISPAH" style="max-height: 400px; width: auto; border-radius: 10px;">
     </div>
 </div>
 
