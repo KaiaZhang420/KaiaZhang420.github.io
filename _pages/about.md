@@ -27,7 +27,18 @@ You can find my research work on <a href='https://scholar.google.com/citations?u
 
 
 # 🔥 News
-- *2024.10*: &nbsp;🎉 Will present research at the 10th ISPAH Congress
+<div class="presentation-box" style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+    <!-- Left side vertical image -->
+    <div class="presentation-box-image" style="flex: 1; padding-right: 10px; max-width: 100px; height: auto;">
+        <img src="images/presentation.png" alt="Presentation at ISPAH" style="max-height: 300px; width: auto;">
+    </div>
+    
+    <!-- Right side text -->
+    <div class="presentation-box-text" style="flex: 2;">
+        <p><strong>2024.10:</strong> &nbsp;🎉 Presented research at the 10th ISPAH Congress in Paris</p>
+    </div>
+</div>
+
 - *2024.06*: &nbsp;🎉 Published paper in JPAH: "The Evolution of Physical Activity and Health Research in China"
 - *2024.03*: &nbsp;🕊️ Published paper about Dr. Harold W. Kohl III's legacy in JPAH
 - *2023.08*: &nbsp;🎓 Started PhD program at University of Illinois Urbana-Champaign
