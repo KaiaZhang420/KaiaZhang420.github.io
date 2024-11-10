@@ -86,6 +86,7 @@ A tribute paper highlighting the significant contributions of Dr. Harold W. Kohl
    
 *2016-2020* &nbsp;🏆 **Sports Achievement Awards**
  - BNU Sports Competition 1st Scholarship （Top 3 in the National Student Competition）
+
 *2013* &nbsp;⭐ **National Master Level of Rhythmic Gymnastics (Top 1%)**
  - Awarded for consecutive wins in junior national competitions (2011-2014)
 
