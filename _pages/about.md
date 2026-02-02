@@ -111,12 +111,16 @@ A tribute paper highlighting the significant contributions of Dr. Harold W. Kohl
 
 *2023.08 - Present* &nbsp;🎓 **Ph.D. in Community Health**
  - University of Illinois Urbana-Champaign, USA
+
 *2021.09 - 2023.06* &nbsp;🎓 **Master of Sports Management**
  - Lomonosov Moscow State University, Russia
+
 *2016.09 - 2020.06* &nbsp;🎓 **Bachelor of Kenisiology**
  - Beijing Normal University, China
+
 *2017.09 - 2021.06* &nbsp;📚 **Bachelor of Chinese Language and Literature**
  - Beijing Normal University, China
+
 *2019.06 - 2019.08* &nbsp;🌎 **Public Health** (Exchange Program)
  - University of Pennsylvania, USA
 
