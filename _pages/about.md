@@ -23,7 +23,7 @@ I’m a PhD candidate in Health & Kinesiology at the University of Illinois Urba
 
 Before my PhD, I trained in kinesiology and sports management and earned the National Master of Sports title in Rhythmic Gymnastics. That background keeps me grounded in how behavior, environment, and real-life constraints shape movement. I’m especially interested in questions where strong data work can turn messy evidence into insights that support better decisions in policy, programs, and practice.
 
-You can find my research work on <a href='https://scholar.google.com/citations?user=bRnW6HEAAAAJ'>Google Scholar</a> and connect with me on <a href='https://orcid.org/0009-0000-5589-410X'>ORCID</a>. 
+You can find my research work on <a href='https://scholar.google.com/citations?hl=en&user=FLXNP-IAAAAJ'>Google Scholar</a> and connect with me on <a href='https://orcid.org/0009-0000-5589-410X'>ORCID</a>. 
 
 [Recent publication: <a href='https://journals.humankinetics.com/view/journals/jpah/21/8/article-p802.xml'>"The Evolution of Physical Activity and Health Research in China: A Bibliometric Analysis"</a>]
 
