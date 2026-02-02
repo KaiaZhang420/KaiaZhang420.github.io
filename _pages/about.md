@@ -19,7 +19,9 @@ redirect_from:
 
 # Welcome👋！
 
-I am a PhD student in Health and Kinesiology at the University of Illinois Urbana-Champaign, working under the guidance of Dr. Pedro C Hallal. Combining my academic foundation in kinesiology and sports management with my distinguished background as a National Master of Sports in Rhythmic Gymnastics, I investigate the intersection of physical activity and public health. My research focuses on innovative approaches to community health promotion, particularly through digital health technologies, with special attention to the evolution of physical activity research, healthy aging, and health economics. Through my recent work on bibliometric analysis of physical activity research in China and leveraging my strong quantitative analysis skills and multilingual capabilities, I strive to contribute meaningful insights to global public health challenges.
+I’m a PhD candidate in Health & Kinesiology at the University of Illinois Urbana-Champaign. I do quantitative public health research with a focus on epidemiologic and spatial analysis—using large datasets to understand patterns in health behaviors and related outcomes. My work spans global surveillance data and U.S. county-level studies, including cross-country comparisons, spatial clustering and mismatch mapping, and evidence synthesis. I care about clear, reproducible analysis and making results easy to interpret.
+
+Before my PhD, I trained in kinesiology and sports management and earned the National Master of Sports title in Rhythmic Gymnastics. That background keeps me grounded in how behavior, environment, and real-life constraints shape movement. I’m especially interested in questions where strong data work can turn messy evidence into insights that support better decisions in policy, programs, and practice.
 
 You can find my research work on <a href='https://scholar.google.com/citations?user=bRnW6HEAAAAJ'>Google Scholar</a> and connect with me on <a href='https://orcid.org/0009-0000-5589-410X'>ORCID</a>. 
 
