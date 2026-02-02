@@ -27,7 +27,9 @@ You can find my research work on <a href='https://scholar.google.com/citations?u
 
 
 # 🔥 News
-- *2024.10*: &nbsp;🎉 Presented research at the 10th ISPAH Congress in Paris
+- *2025.11*: &nbsp;🎉 Han, Q., **Zhang, K.**, & Lyu, S. (2025, November 1–2). Reassessment of the value of Taijiquan within the global physical activity promotion framework and policy implications. Poster presentation at the 4th International Taijiquan Health Science Conference, Beijing Normal University, Beijing, China.
+- *2025.09*: &nbsp;🎉 **Zhang, K.**, Morales, D., Tang, A., Kohn, E., & Hallal, P. C. (2025, September). Evolution of physical activity surveillance, policy, and research in China: Insights from the Global Observatory for Physical Activity. Oral presentation at the 16th HEPA Europe Conference, Vilnius, Lithuania.
+- *2024.10*: &nbsp;🎉 **Zhang, K.**, Morales, D., Chen, J., & Hallal, P. C. (2022, October). A bibliometric analysis of three decades of physical activity and health research in China. Poster presented at the 10th International Society for Physical Activity and Health (ISPAH) Congress
 - *2024.06*: &nbsp;🎉 Published paper in JPAH: "The Evolution of Physical Activity and Health Research in China"
 - *2024.03*: &nbsp;🕊️ Published paper about Dr. Harold W. Kohl III's legacy in JPAH
 - *2023.08*: &nbsp;🎓 Started PhD program at University of Illinois Urbana-Champaign
@@ -84,6 +86,8 @@ A tribute paper highlighting the significant contributions of Dr. Harold W. Kohl
 - First-authored paper with guidance from senior researchers, contributing to understanding of China's physical activity research landscape
 
 # 🎖 Honors and Awards
+*2025* &nbsp;🌟 **College of Applied Health Sciences, Department of Health & Kinesiology Travel Award** 
+
 *2020-2023* &nbsp;🌟 **China Scholarship Council (CSC) Award (Top 1%)** 
 
 *2020* &nbsp;🎓 **Outstanding Undergraduate Awards (Top 10%)** 
@@ -105,40 +109,25 @@ A tribute paper highlighting the significant contributions of Dr. Harold W. Kohl
 
 *2023.08 - Present* &nbsp;🎓 **Ph.D. in Community Health**
  - University of Illinois Urbana-Champaign, USA
- - Department of Health and Kinesiology
- - GPA: 4.0/4.0 (2023 fall-2024 spring)
- - Advisor: Dr. Pedro C Hallal
-
 *2021.09 - 2023.06* &nbsp;🎓 **Master of Sports Management**
  - Lomonosov Moscow State University, Russia
- - GPA: 4.9/5.0 (Top 5%)
- - China Scholarship Council (CSC) Fellow
- - Advisor: Dr. Алешин, Владимир Владимирович
-
-*2016.09 - 2020.06* &nbsp;🎓 **Bachelor of Sport Science and Physical Education**
+*2016.09 - 2020.06* &nbsp;🎓 **Bachelor of Kenisiology**
  - Beijing Normal University, China
- - Honor Degree
- - GPA: 3.8/4.0 (Top 15%)
- - Advisor: Dr. Guofeng Qu
-
 *2017.09 - 2021.06* &nbsp;📚 **Bachelor of Chinese Language and Literature**
  - Beijing Normal University, China
- - Double Degree Program
- - Advisor: Dr. Xiaoping Dong
-
-*2019.07 - 2019.08* &nbsp;🌎 **International Exchange Program**
+*2019.06 - 2019.08* &nbsp;🌎 **Public Health** (Exchange Program)
  - University of Pennsylvania, USA
- - Public Health and Global Leadership
 
-# 💬 Academic Presentations & Teaching
+# 💬 Teaching
 
-- *2024.10* &nbsp;📊 **Bibliometric Analysis of Physical Activity Research in China**
-  - 10th ISPAH Congress
-  - Oral Presentation (Upcoming)
+- Instructor, **HK 106 Volleyball**, UIUC (Fall 2025)
+- Teaching Assistant, **HK 201 Health Sciences Research Methods**, UIUC (Fall 2025)
+- Teaching Assistant, **HK 414 International Health**, UIUC (Fall 2025)
+- Teaching Assistant, **HK 201 Health Sciences Research**, UIUC (Spring 2026)
+- Junior Mentor, Department of Health & Kinesiology, UIUC (2024)
 
 - *2022.Spring* &nbsp;🏃 **Fitness and Health Series Courses**
   - Moscow State University, Chinese Students and Scholars Association
-  - Lecturer
   - Topics: Physical activity, NCDs prevention, and exercise techniques
 
 - *2019-2020* &nbsp;📹 **Digital Coach and MOOC Contributor**
