@@ -19,7 +19,7 @@ redirect_from:
 
 # Welcome👋！
 
-I’m a PhD candidate in Community Health in the Department of Health and Kinesiology at the University of Illinois Urbana-Champaign, advised by Dr. Pedro C. Hallal. I do quantitative public health research with a focus on epidemiologic and spatial analysis—using large datasets to understand patterns in health behaviors and related outcomes. My work spans global surveillance data and U.S. county-level studies, including cross-country comparisons, spatial clustering and mismatch mapping, and evidence synthesis. I care about clear, reproducible analysis and making results easy to interpret.
+I’m a PhD candidate in Community Health in the Department of Health and Kinesiology at the University of Illinois Urbana-Champaign, advised by Dr. Pedro C. Hallal. I study physical activity at the population level: how much people move, how they get around, and what that movement is worth for health and the economy. My dissertation examines active transport across 79 countries and territories, estimates the health and economic benefits of walking and cycling in Hangzhou, China, with the WHO Health Economic Assessment Tool (HEAT), and traces how physical activity research has grown in China. My next line of work asks what physical activity is worth in ageing societies.
 
 Before my PhD, I trained in kinesiology and sports management and earned the National Master of Sports title in Rhythmic Gymnastics. That background keeps me grounded in how behavior, environment, and real-life constraints shape movement. I’m especially interested in questions where strong data work can turn messy evidence into insights that support better decisions in policy, programs, and practice.
 
@@ -167,7 +167,7 @@ A tribute paper highlighting the significant contributions of Dr. Harold W. Kohl
 
 - *2018-2019* &nbsp;👥 **Youth Mental Health Program**
   - Experimental Primary School of Beijing Normal University
-  - Led group psychological therapy programs
+  - Led group activities on social-emotional skills
   - Organized activities enhancing team spirit and interpersonal skills
   - Hosted seminar on "Autism and Adolescent Internet Game Addiction"
 
