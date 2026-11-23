@@ -12,6 +12,9 @@ main:
   - title: "Projects"
     url: "/#-projects-and-collaborations"
 
+  - title: "Technical Projects"
+    url: "/#-technical-projects"
+
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 

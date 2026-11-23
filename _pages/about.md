@@ -19,7 +19,7 @@ redirect_from:
 
 # Welcome👋！
 
-I’m a PhD candidate in Health & Kinesiology at the University of Illinois Urbana-Champaign. I do quantitative public health research with a focus on epidemiologic and spatial analysis—using large datasets to understand patterns in health behaviors and related outcomes. My work spans global surveillance data and U.S. county-level studies, including cross-country comparisons, spatial clustering and mismatch mapping, and evidence synthesis. I care about clear, reproducible analysis and making results easy to interpret.
+I’m a PhD candidate in Community Health in the Department of Health and Kinesiology at the University of Illinois Urbana-Champaign, advised by Dr. Pedro C. Hallal. I do quantitative public health research with a focus on epidemiologic and spatial analysis—using large datasets to understand patterns in health behaviors and related outcomes. My work spans global surveillance data and U.S. county-level studies, including cross-country comparisons, spatial clustering and mismatch mapping, and evidence synthesis. I care about clear, reproducible analysis and making results easy to interpret.
 
 Before my PhD, I trained in kinesiology and sports management and earned the National Master of Sports title in Rhythmic Gymnastics. That background keeps me grounded in how behavior, environment, and real-life constraints shape movement. I’m especially interested in questions where strong data work can turn messy evidence into insights that support better decisions in policy, programs, and practice.
 
@@ -31,9 +31,14 @@ You can find my research work on <a href='https://scholar.google.com/citations?h
 
 
 # 🔥 News
+- *2026.10*: &nbsp;🎤 Flash oral presentation on the health and economic benefits of walking and cycling in Hangzhou, China (WHO HEAT), at the Illini Physical Activity Symposium, UIUC.
+- *2026.10*: &nbsp;🎤 Long oral presentation on active transport across 79 countries and territories at the 11th International Society for Physical Activity and Health (ISPAH) Congress, Mérida, Mexico.
+- *2026.08*: &nbsp;🏅 Received the Phi Kappa Phi Love of Learning Award.
+- *2026.08*: &nbsp;👩‍🏫 Began serving as Lead Teaching Assistant, Department of Health and Kinesiology (2026–27), and as Treasurer-Elect of the Health and Kinesiology Graduate Student Association.
+- *2025.12*: &nbsp;🎓 Passed the preliminary examination and advanced to PhD candidacy.
 - *2025.11*: &nbsp;🎉 Han, Q., **Zhang, K.**, & Lyu, S. (2025, November 1–2). Reassessment of the value of Taijiquan within the global physical activity promotion framework and policy implications. Poster presentation at the 4th International Taijiquan Health Science Conference, Beijing Normal University, Beijing, China.
 - *2025.09*: &nbsp;🎉 **Zhang, K.**, Morales, D., Tang, A., Kohn, E., & Hallal, P. C. (2025, September). Evolution of physical activity surveillance, policy, and research in China: Insights from the Global Observatory for Physical Activity. Oral presentation at the 16th HEPA Europe Conference, Vilnius, Lithuania.
-- *2024.10*: &nbsp;🎉 **Zhang, K.**, Morales, D., Chen, J., & Hallal, P. C. (2022, October). A bibliometric analysis of three decades of physical activity and health research in China. Poster presented at the 10th International Society for Physical Activity and Health (ISPAH) Congress
+- *2024.10*: &nbsp;🎉 **Zhang, K.**, Morales, D., Chen, J., & Hallal, P. C. (2024, October). A bibliometric analysis of three decades of physical activity and health research in China. Poster presented at the 10th International Society for Physical Activity and Health (ISPAH) Congress, Paris, France.
 - *2024.06*: &nbsp;🎉 Published paper in JPAH: "The Evolution of Physical Activity and Health Research in China"
 - *2024.03*: &nbsp;🕊️ Published paper about Dr. Harold W. Kohl III's legacy in JPAH
 - *2023.08*: &nbsp;🎓 Started PhD program at University of Illinois Urbana-Champaign
@@ -89,7 +94,18 @@ A tribute paper highlighting the significant contributions of Dr. Harold W. Kohl
 - Analyzed three decades of research trends and gender representation in the field
 - First-authored paper with guidance from senior researchers, contributing to understanding of China's physical activity research landscape
 
+# 💻 Technical Projects
+
+**Student Simulator** — VR game (Unity, C#, Meta Quest) · [Play on itch.io](https://davidzhu27.itch.io/student-simulator) · [Code](https://github.com/davidzhu27/417FINAL)
+- CS 417 Virtual Reality, UIUC (Spring 2026), team of six
+- Designed and built Level 2, *Walking to Class*: a pedestrian-safety scenario with moving traffic, a timed crosswalk signal, slip hazards, and audio cues; integrated the XR rig for headset play
+
+**AI-Assisted Movement Assessment** — CS 598, UIUC (first author, team project)
+- Pilot study comparing a vision–language model (Qwen-2.5-VL) and pose estimation (MediaPipe, HybrIK) against expert ratings of squat quality, using an 8-criterion biomechanical rubric based on NASM/ACSM guidelines
+
 # 🎖 Honors and Awards
+*2026* &nbsp;🌟 **Phi Kappa Phi Love of Learning Award**
+
 *2025* &nbsp;🌟 **College of Applied Health Sciences, Department of Health & Kinesiology Travel Award** 
 
 *2020-2023* &nbsp;🌟 **China Scholarship Council (CSC) Award (Top 1%)** 
@@ -111,13 +127,15 @@ A tribute paper highlighting the significant contributions of Dr. Harold W. Kohl
 
 # 📖 Education
 
-*2023.08 - Present* &nbsp;🎓 **Ph.D. in Community Health**
+*2023.08 - Present* &nbsp;🎓 **Ph.D. in Community Health** (Candidate; expected May 2028)
  - University of Illinois Urbana-Champaign, USA
+ - Dissertation: *Physical Activity and Health in China: Active Transport, Economic Impact, and Research Capacity*
+ - Advisor: Dr. Pedro C. Hallal
 
 *2021.09 - 2023.06* &nbsp;🎓 **Master of Sports Management**
  - Lomonosov Moscow State University, Russia
 
-*2016.09 - 2020.06* &nbsp;🎓 **Bachelor of Kenisiology**
+*2016.09 - 2020.06* &nbsp;🎓 **Bachelor of Kinesiology**
  - Beijing Normal University, China
 
 *2017.09 - 2021.06* &nbsp;📚 **Bachelor of Chinese Language and Literature**
@@ -128,10 +146,14 @@ A tribute paper highlighting the significant contributions of Dr. Harold W. Kohl
 
 # 💬 Teaching
 
+- Lead Teaching Assistant, Department of Health & Kinesiology, UIUC (2026–27)
+- Teaching Assistant (online section lead), **HK 154 Physical Activity and Health**, UIUC (Fall 2026)
+- Lab Instructor, **HK 201 Health Sciences Research**, UIUC (Fall 2026)
+- Instructor, **HK 103 Badminton**, UIUC (Fall 2026)
+- Teaching Assistant, **HK 201 Health Sciences Research**, UIUC (Spring 2026)
 - Instructor, **HK 106 Volleyball**, UIUC (Fall 2025)
 - Teaching Assistant, **HK 201 Health Sciences Research Methods**, UIUC (Fall 2025)
 - Teaching Assistant, **HK 414 International Health**, UIUC (Fall 2025)
-- Teaching Assistant, **HK 201 Health Sciences Research**, UIUC (Spring 2026)
 - Junior Mentor, Department of Health & Kinesiology, UIUC (2024)
 
 - *2022.Spring* &nbsp;🏃 **Fitness and Health Series Courses**
@@ -151,7 +173,7 @@ A tribute paper highlighting the significant contributions of Dr. Harold W. Kohl
 
 # 💻 Professional Experience
 
-- *2023.08 - Present* &nbsp;🔬 **Research Assistant**
+- *2023 - 2025* &nbsp;🔬 **Graduate Research Assistant**
   - Department of Health and Kinesiology, University of Illinois Urbana-Champaign
   - EPIC LAB and LAPASST LAB
   - Projects and Responsibilities:
